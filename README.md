@@ -1,6 +1,8 @@
-# Hi, I'm Nagajani 👋
+# Hi there, I'm Jani 👋
 
-🧬 Biomedical engineer with a love for Python, scientific computing and building useful tools.
+Biomedical engineer experienced in Python, machine learning and scientific computing.
+I develop research workflows that turn complex datasets into predictive models
+and interpretable results, alongside web tools for education.
 
 ## 💻 Languages & tools
 
@@ -9,6 +11,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Python** is my primary language for data processing, machine learning and
+scientific visualisation. I also use **MATLAB** for image segmentation
+and engineering analysis.
 
 ## 📊 Data science & machine learning
 
@@ -20,20 +26,25 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-- **Data → insight:** cleaning research datasets and exploring patterns through visualisation.
-- **Predictive modelling:** regression, random forests and XGBoost with cross-validation.
-- **Model interpretation:** SHAP, partial dependence plots and individual conditional expectation.
-- **Scientific computing:** image segmentation in MATLAB and numerical analysis in Python.
+- **Data preparation:** structuring literature-derived datasets, checking data quality
+  and developing reproducible cleaning workflows.
+- **Modelling & evaluation:** implementing random forests, XGBoost and ElasticNet,
+  with cross-validation, learning curves and sensitivity analysis.
+- **Interpretation & visualisation:** using PCA to explore patterns and SHAP,
+  PDP/ICE to examine model behaviour, supported by interactive and static figures.
 
 ## 🛠️ Projects
 
-🧪 **Green AgNP Machine Learning**  
-Exploring silver nanoparticle synthesis data through Python notebooks,
-predictive models and interactive visualisations.
+### 🧪 Green AgNP Machine Learning
+Developed a Python analysis workflow for published silver nanoparticle synthesis
+data, covering data auditing through to model evaluation and manuscript figures.
+The analysis examines predictive performance and how data quality limits
+the conclusions models can support.
 
-🌐 **ExamTeq**  
-Building a tutoring website and online learning platform informed by my experience teaching.
+### 🌐 ExamTeq
+Built a tutoring website and coded an online learning platform, drawing on
+my teaching experience to translate practical educational needs into digital tools.
 
-## 🌱 Currently learning
+## 🔬 Technical interests
 
-Exploring deep learning for tabular data and its applications in biomedical research.
+Scientific software · Biomedical image analysis · Machine learning for research
